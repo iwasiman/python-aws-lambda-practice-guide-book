@@ -4,6 +4,6 @@
 
 
 はてなブログの以下の記事の掲載用です。  
-『【【感想】『AWS Lambda実践ガイド』：PythonでLambda関数を書いていこう』
+『【感想】『AWS Lambda実践ガイド』：PythonでLambda関数を書いていこう』
 
 https://iwasiman.hatenablog.com/entry/20210308-aws-lambda-practice-guide
